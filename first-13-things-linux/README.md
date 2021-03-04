@@ -25,7 +25,7 @@ Verify unattended upgrades configuration file in your text editor of choice
 
 To disable automatic reboots by the automatic upgrades configuration edit the following file:
 
-`/etc/apt/apt.conf.d/50-unattended-upgrades`
+`/etc/apt/apt.conf.d/50unattended-upgrades`
 
 and uncomment the following line by removing the leading slashes:
 
